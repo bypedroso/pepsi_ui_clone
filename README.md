@@ -16,7 +16,7 @@ Neste trabalho foi abordado temas como responsividade, manipulação da DOM e fl
 <br>
 
 <p align="center">
-  <img alt="pepsi" src=".github/home.png" width="100%">
+  <img alt="pepsi" src=".github/home.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
